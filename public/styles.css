@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; padding: 2rem; background: #f7f7f7; }
+main { max-width: 640px; margin: 0 auto; background: #fff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); }
+form { display:flex; gap:8px; margin-bottom:1rem; }
+form input { flex:1; padding:8px; }
+button { padding:8px 12px; }
+ul { list-style:none; padding:0; }
+li { padding:8px; border-bottom:1px solid #eee; display:flex; justify-content:space-between; }
+.small { color:#666; font-size:0.9rem; }
