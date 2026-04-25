@@ -21,7 +21,7 @@ services:
       - mongodb
 
   backend:
-    image: 856554458655.dkr.ecr.eu-north-1.amazonaws.com/my-app@sha256:18f11a4ae650490b92bfb8a12fa735ab677efe4622faeb3ba0ef2be57c98d23d
+    image: ehsanrasheed/ehsan:latest
     ports:
       - 3000:3000
     environment:
